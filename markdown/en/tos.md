@@ -2,34 +2,34 @@
 
 ## Effective date: July 20, 2022
 
-These Terms of Service (referred to as the "Terms") govern your access to and use of our Services. These Terms form a legally binding contract between you and Livehouse Ltd. ("LiveIn"). So please read them carefully!
+These Terms of Service (referred to as the "Terms") govern your access to and use of our Services. These Terms form a legally binding contract between you and Livehouse Ltd. ("LiveStatus"). So please read them carefully!
 
-By using LiveIn or any of our other products or services that are subject to these Terms (which are referred to collectively as "Services"), you agree to be bound by these Terms and our Privacy Policy. If you do not agree with them, then you can opt to not use our services.
+By using LiveStatus or any of our other products or services that are subject to these Terms (which are referred to collectively as "Services"), you agree to be bound by these Terms and our Privacy Policy. If you do not agree with them, then you can opt to not use our services.
 
-ARBITRATION NOTICE: THESE TERMS CONTAIN AN ARBITRATION CLAUSE BELOW. EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND LiveIn AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND LiveIn WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. YOU HAVE THE RIGHT TO OPT OUT OF ARBITRATION AS EXPLAINED IN THAT ARBITRATION CLAUSE.
+ARBITRATION NOTICE: THESE TERMS CONTAIN AN ARBITRATION CLAUSE BELOW. EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND LiveStatus AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND LiveStatus WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. YOU HAVE THE RIGHT TO OPT OUT OF ARBITRATION AS EXPLAINED IN THAT ARBITRATION CLAUSE.
 
 ## 1. Who Can Use the Services
 
-You may use LiveIn only if you can legally form a binding contract with LiveIn, and only in compliance with these Terms and other applicable laws. When you create a LiveIn account, you must provide us with accurate and complete information. You can’t use LiveIn if it would be prohibited by the United States or any other applicable jurisdictions. Any use or access by anyone under the age of 13 is not allowed. If you are based in the EU, EEA, or UK, you may only use LiveIn if you are over the age at which you can provide consent to data processing under the laws of your country. Using LiveIn may include downloading software to your computer, phone, tablet, or other device. You agree that we may automatically update that software, and these Terms will apply to any updates. Please read all terms carefully. By using the Services, you represent, warrant, and agree that:
+You may use LiveStatus only if you can legally form a binding contract with LiveStatus, and only in compliance with these Terms and other applicable laws. When you create a LiveStatus account, you must provide us with accurate and complete information. You can’t use LiveStatus if it would be prohibited by the United States or any other applicable jurisdictions. Any use or access by anyone under the age of 13 is not allowed. If you are based in the EU, EEA, or UK, you may only use LiveStatus if you are over the age at which you can provide consent to data processing under the laws of your country. Using LiveStatus may include downloading software to your computer, phone, tablet, or other device. You agree that we may automatically update that software, and these Terms will apply to any updates. Please read all terms carefully. By using the Services, you represent, warrant, and agree that:
 
-* you can form a binding contract with LiveIn;
+* you can form a binding contract with LiveStatus;
 * you are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction—including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
 * you are not a convicted sex offender;
 * you will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations.
 
 ## 2. Rights We Grant You
 
-As between you and us, LiveIn (and its licensors) own the Services, including all proprietary content, information, material, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, copyrights, photographs, audio, video, music, and “look and feel” of the Services, and all related intellectual property rights. LiveIn grants you a limited, personal, worldwide, royalty-free, non-assignable, non-exclusive, revocable, and non-sublicensable license to use the Services. This license is for the sole purpose of using and enjoying the Services in a way that these Terms and our policies, such as our privacy policy and <a href="#community_guidelines">community guidelines</a>, allow. You may not use the Services in ways that are not authorized by these Terms. Nor may you help anyone else in doing so.
+As between you and us, LiveStatus (and its licensors) own the Services, including all proprietary content, information, material, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, copyrights, photographs, audio, video, music, and “look and feel” of the Services, and all related intellectual property rights. LiveStatus grants you a limited, personal, worldwide, royalty-free, non-assignable, non-exclusive, revocable, and non-sublicensable license to use the Services. This license is for the sole purpose of using and enjoying the Services in a way that these Terms and our policies, such as our privacy policy and <a href="#community_guidelines">community guidelines</a>, allow. You may not use the Services in ways that are not authorized by these Terms. Nor may you help anyone else in doing so.
 
 ## 3. Rights You Grant Us
 
 Many of our Services let you create, upload, post, send, receive, and store content. When you do that, you retain whatever ownership rights in that content you had to begin with.
 
-For all content you submit to the Services, you grant LiveIn and our affiliates a worldwide, royalty-free, sublicensable, and transferable license to host, store, cache, use, display, reproduce, modify, adapt, edit, publish, analyze, transmit, and distribute that content. This license is for the purpose of operating, developing, providing, promoting, and improving the Services and researching and developing new ones. This license includes a right for us to make your content available to, and pass these rights along to, service providers with whom we have contractual relationships related to the provision of the Services, solely for the purpose of providing such Services.
+For all content you submit to the Services, you grant LiveStatus and our affiliates a worldwide, royalty-free, sublicensable, and transferable license to host, store, cache, use, display, reproduce, modify, adapt, edit, publish, analyze, transmit, and distribute that content. This license is for the purpose of operating, developing, providing, promoting, and improving the Services and researching and developing new ones. This license includes a right for us to make your content available to, and pass these rights along to, service providers with whom we have contractual relationships related to the provision of the Services, solely for the purpose of providing such Services.
 
 While we’re not required to do so, we may access, review, screen, and delete your content at any time and for any reason, including to provide and develop the Services or if we think your content violates these Terms. You alone, though, remain responsible for the content you create, upload, post, send, or store through the Service.
 
-You agree that LiveIn, its affiliates, and third-party partners may place advertising in the Services. We, our affiliates, and our third-party partners may place advertising on the Services, including personalized advertising based on the information you provide us, we collect, or we obtain about you. Advertising may sometimes appear near, between, over, or in your content.
+You agree that LiveStatus, its affiliates, and third-party partners may place advertising in the Services. We, our affiliates, and our third-party partners may place advertising on the Services, including personalized advertising based on the information you provide us, we collect, or we obtain about you. Advertising may sometimes appear near, between, over, or in your content.
 
 ## 4. Feedback you provide
 
@@ -37,20 +37,20 @@ We always love to hear from our users. But if you provide feedback or suggestion
 
 ## 5. Privacy
 
-Your privacy matters to us. You can learn how your information is handled when you use our Services by reading our Privacy Policy. We recommend that you review our privacy policy in detail, by using our services, you agree that LiveIn can collect, user, or transfer your information in accordance with the policy.
+Your privacy matters to us. You can learn how your information is handled when you use our Services by reading our Privacy Policy. We recommend that you review our privacy policy in detail, by using our services, you agree that LiveStatus can collect, user, or transfer your information in accordance with the policy.
 
 ## 6. The Content of Others
 
-LiveIn allows users, publishers, and other third parties to post content, including photos and videos. Anything that you post or otherwise make available on LiveIn is referred to as “User Content.” You retain all rights in, and are solely responsible for the User Content that you post to or transmit on LiveIn. Whether that content is posted publicly or sent privately, the content is the sole responsibility of the user or entity that submitted it. Although LiveIn reserves the right to review or remove all content that appears on the Services, we do not necessarily review all of it. So we cannot—and do not—guarantee that other users or the content they provide through the Services will comply with our Terms.
+LiveStatus allows users, publishers, and other third parties to post content, including photos and videos. Anything that you post or otherwise make available on LiveStatus is referred to as “User Content.” You retain all rights in, and are solely responsible for the User Content that you post to or transmit on LiveStatus. Whether that content is posted publicly or sent privately, the content is the sole responsibility of the user or entity that submitted it. Although LiveStatus reserves the right to review or remove all content that appears on the Services, we do not necessarily review all of it. So we cannot—and do not—guarantee that other users or the content they provide through the Services will comply with our Terms.
 
-Through these Terms and our Community Guidelines, LiveIn clearly establishes limitations on how the Services should be used. However, we do not review all content, and cannot guarantee that all content on the Services will always conform to our Terms and Community Guidelines.
+Through these Terms and our Community Guidelines, LiveStatus clearly establishes limitations on how the Services should be used. However, we do not review all content, and cannot guarantee that all content on the Services will always conform to our Terms and Community Guidelines.
 
-## 7. Respecting the Services and LiveIn's Rights
+## 7. Respecting the Services and LiveStatus's Rights
 
-You agree to respect LiveIn's rights and adhere to any guidelines, support pages, or FAQ’s published by LiveIn orour affiliates. That means, among other things, you may not do, attempt to do, enable, or encourage anyone else todo, any of the following:
+You agree to respect LiveStatus's rights and adhere to any guidelines, support pages, or FAQ’s published by LiveStatus orour affiliates. That means, among other things, you may not do, attempt to do, enable, or encourage anyone else todo, any of the following:
 
-* use branding, logos, icons, user interface elements, designs, photographs, videos, or any other materials LiveIn makes available via the Services, except as explicitly allowed by these Terms;
-* violate or infringe LiveIn's or our affiliates’ copyrights, trademarks, or other intellectual property rights;
+* use branding, logos, icons, user interface elements, designs, photographs, videos, or any other materials LiveStatus makes available via the Services, except as explicitly allowed by these Terms;
+* violate or infringe LiveStatus's or our affiliates’ copyrights, trademarks, or other intellectual property rights;
 * copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
 * create more than one account for yourself, create another account if we have already disabled your account, attempt to access the Services through unauthorized third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, or a friend link;
 * reverse engineer, duplicate, decompile, disassemble, or decode the Services (including any underlying idea or algorithm), or otherwise extract the source code of the software of the Service;
@@ -65,24 +65,24 @@ You agree to respect LiveIn's rights and adhere to any guidelines, support pages
 
 ## 8. Respecting Others' Rights
 
-LiveIn respects the rights of others. And so should you. You therefore may not use the Services, or enable anyone else to use the Services, in a manner that:
+LiveStatus respects the rights of others. And so should you. You therefore may not use the Services, or enable anyone else to use the Services, in a manner that:
 
 * violates or infringes someone else’s rights of publicity, privacy, copyright, trademark, or other intellectual property right;
 * bullies, harasses, or intimidates;
 * defames;
 * posts content that contains pornography, graphic violence, threats, hate speech, or incitements of violence; or
-* spams or solicits LiveIn users.
-* When you submit content to the Service, you agree and represent that you own that content, or that you have received all necessary permissions, clearances, and authorizations in order to submit it to the Service (including, if applicable, the right to make mechanical reproductions of the musical works embodied in any sound recordings, synchronize any compositions to any content, publicly perform any compositions or sound recordings, or any other applicable rights for any music not provided by LiveIn that you include in your content) and grant the rights and licenses contained in these Terms for your content.
-* You also agree that you will not use or attempt to use another user’s account except as permitted by LiveIn or its affiliates.
+* spams or solicits LiveStatus users.
+* When you submit content to the Service, you agree and represent that you own that content, or that you have received all necessary permissions, clearances, and authorizations in order to submit it to the Service (including, if applicable, the right to make mechanical reproductions of the musical works embodied in any sound recordings, synchronize any compositions to any content, publicly perform any compositions or sound recordings, or any other applicable rights for any music not provided by LiveStatus that you include in your content) and grant the rights and licenses contained in these Terms for your content.
+* You also agree that you will not use or attempt to use another user’s account except as permitted by LiveStatus or its affiliates.
 
 
 ## 9. Safety
 
-We try hard to keep our Services a safe place for all users. By using the Services, you agree that you will at all times comply with these Terms and any other policies LiveIn makes available in order to maintain the safety of the Services.
+We try hard to keep our Services a safe place for all users. By using the Services, you agree that you will at all times comply with these Terms and any other policies LiveStatus makes available in order to maintain the safety of the Services.
 
 If you fail to comply, we reserve the right to remove any offending content, terminate or limit the visibility of your account, and notify third parties—including law enforcement—and provide those third parties with information relating to your account. This step may be necessary to protect the safety of our users, and others, to investigate, remedy, and enforce potential Terms violations, and to detect and resolve any fraud or security concerns.
 
-We also care about your physical safety while using our Services. So do not use our Services in a way that would distract you from obeying traffic or safety laws. For example, never use the Services while driving. And never put yourself or others in harm’s way just to capture a LiveIn.
+We also care about your physical safety while using our Services. So do not use our Services in a way that would distract you from obeying traffic or safety laws. For example, never use the Services while driving. And never put yourself or others in harm’s way just to capture a LiveStatus.
 
 ## 10. Your Account
 
@@ -106,56 +106,56 @@ We make no promise that Moment will be able to accommodate your precise storage 
 
 You are responsible for any mobile charges that you may incur for using our Services, including text-messaging (such as SMS, MMS, or future such protocols or technologies) and data charges. If you’re unsure what those charges may be, you should ask your service provider before using the Services.
 
-By providing us with your mobile phone number, you agree to receive SMS messages from LiveIn related to the Services, including about promotions, your account, and your relationship with LiveIn. These SMS messages may be made to your mobile phone number even if your mobile phone number is registered on any state or federal Do Not Call list, or international equivalent.
+By providing us with your mobile phone number, you agree to receive SMS messages from LiveStatus related to the Services, including about promotions, your account, and your relationship with LiveStatus. These SMS messages may be made to your mobile phone number even if your mobile phone number is registered on any state or federal Do Not Call list, or international equivalent.
 
 ## 13. Third-Party Services
 
-Certain Services may display, include or make available content, data, information, applications, features or materials from third parties (“Third-Party Materials”), or provide links to certain third-party websites. If you use any Third-Party Materials made available through our Services (including Services we jointly offer with the third party), each party’s terms will govern the respective party’s relationship with you. Neither LiveIn nor our affiliates are responsible or liable for a third party’s terms or actions taken under the third party’s terms. Further, by using the Services, you acknowledge and agree that LiveIn is not responsible for examining or evaluating the content, accuracy, completeness, availability, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect of such Third-Party Materials or websites. We do not warrant or endorse and do not assume and will not have any liability or responsibility to you or any other person for any third-party services, Third-Party Materials or third-party websites, or for any other materials, products, or services of third parties. Third-Party Materials and links to other websites are provided solely as a convenience to you.
+Certain Services may display, include or make available content, data, information, applications, features or materials from third parties (“Third-Party Materials”), or provide links to certain third-party websites. If you use any Third-Party Materials made available through our Services (including Services we jointly offer with the third party), each party’s terms will govern the respective party’s relationship with you. Neither LiveStatus nor our affiliates are responsible or liable for a third party’s terms or actions taken under the third party’s terms. Further, by using the Services, you acknowledge and agree that LiveStatus is not responsible for examining or evaluating the content, accuracy, completeness, availability, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect of such Third-Party Materials or websites. We do not warrant or endorse and do not assume and will not have any liability or responsibility to you or any other person for any third-party services, Third-Party Materials or third-party websites, or for any other materials, products, or services of third parties. Third-Party Materials and links to other websites are provided solely as a convenience to you.
 
 ## 14. Prohibited Acts
 
-LiveIn prohibits Users from engaging in any of the following acts when using the Services:
+LiveStatus prohibits Users from engaging in any of the following acts when using the Services:
 
 1. Acts that violate the laws and regulations, court verdicts, resolutions or orders, or administrative measures that are legally binding;
 2. Acts that may be in violation of public order, morals or customs;
-3. Acts that infringe intellectual property rights, such as copyrights, trademarks and patent rights, rights to fame, privacy, and all other rights granted by law or by a contract with LiveIn and/or a third party;
+3. Acts that infringe intellectual property rights, such as copyrights, trademarks and patent rights, rights to fame, privacy, and all other rights granted by law or by a contract with LiveStatus and/or a third party;
 4. Acts of posting or transmitting excessively violent or explicit sexual expressions; expressions that amount to child pornography or child abuse; expressions that lead to discrimination by race, national origin, creed, gender, social status, family origin, etc.; expressions that induce or encourage suicide, self-injurious behavior or drug abuse; or expressions that include anti-social content and lead to the discomfort of others;
-5. Acts that lead to the misrepresentation of LiveIn and/or a third party or that intentionally spread false information;
-6. Acts of sending the same or similar messages to a large, indefinite number of Users (except for those approved by LiveIn), indiscriminately adding other Users as friends or to group chats, or any other acts deemed by LiveIn to constitute spamming;
-7. Acts of exchanging the right to use the Services or Contents into cash, property or other economic benefits, other than by using the method prescribed by LiveIn;
-8. Acts of using the Services for sales, marketing, advertising, solicitation or other commercial purposes (except for those approved by LiveIn); using the Services for the purpose of sexual conduct or obscene acts; using the Services for the purpose of meeting or engaging in sexual encounters with an unknown third party; using the Services for the purpose of harassment or libelous attacks against other Users; or otherwise using the Services for purposes other than as intended by the Services;
+5. Acts that lead to the misrepresentation of LiveStatus and/or a third party or that intentionally spread false information;
+6. Acts of sending the same or similar messages to a large, indefinite number of Users (except for those approved by LiveStatus), indiscriminately adding other Users as friends or to group chats, or any other acts deemed by LiveStatus to constitute spamming;
+7. Acts of exchanging the right to use the Services or Contents into cash, property or other economic benefits, other than by using the method prescribed by LiveStatus;
+8. Acts of using the Services for sales, marketing, advertising, solicitation or other commercial purposes (except for those approved by LiveStatus); using the Services for the purpose of sexual conduct or obscene acts; using the Services for the purpose of meeting or engaging in sexual encounters with an unknown third party; using the Services for the purpose of harassment or libelous attacks against other Users; or otherwise using the Services for purposes other than as intended by the Services;
 9. Acts that benefit or involve collaboration with anti-social groups;
 10. Acts that are related to religious activities or invitations to certain religious groups;
 11. Acts of unauthorized or improper collection, disclosure, or provision of any other person's personal information, registered information, user history, or the like;
-12. Acts of interfering with the servers and/or network systems of the Services; fraudulently manipulating the Services by means of bots, cheat tools, or other technical measures; deliberately using defects of the Services; making unreasonable inquires and/or undue claims such as repeatedly asking the same questions beyond what is necessary, and other acts of interfering with or hindering LiveIn's operation of the Services or other Users’ use of the Services;
+12. Acts of interfering with the servers and/or network systems of the Services; fraudulently manipulating the Services by means of bots, cheat tools, or other technical measures; deliberately using defects of the Services; making unreasonable inquires and/or undue claims such as repeatedly asking the same questions beyond what is necessary, and other acts of interfering with or hindering LiveStatus's operation of the Services or other Users’ use of the Services;
 13. Acts of decoding the source code of the Services, such as by way of reverse engineering, disassembling or the like, for unreasonable purposes or in an unfair manner;
 14. Acts that aid or encourage any acts stated in Clauses 13.1 to 13.13 above;
-15. Acts other than those set forth in Clauses 13.1 to 13.14 that LiveIn reasonably deems to be inappropriate.
+15. Acts other than those set forth in Clauses 13.1 to 13.14 that LiveStatus reasonably deems to be inappropriate.
 
 ## 15. User Responsibility
 
 1. Users shall use the Services at their own risk, and shall bear any and all responsibilities for actions carried out under and the results from the use of the Services.
-2. LiveIn may suspend the use of all or part of the Services, suspend or delete accounts, cancel any agreement between a User and LiveIn with respect to the Services (including, without limitation, any agreement based on these Terms and Conditions, hereinafter the same) or take any other measure LiveIn reasonably determines to be necessary and appropriate without prior notice to such User in the case that such User falls under or there is a possibility that such User falls under any of the following items:
+2. LiveStatus may suspend the use of all or part of the Services, suspend or delete accounts, cancel any agreement between a User and LiveStatus with respect to the Services (including, without limitation, any agreement based on these Terms and Conditions, hereinafter the same) or take any other measure LiveStatus reasonably determines to be necessary and appropriate without prior notice to such User in the case that such User falls under or there is a possibility that such User falls under any of the following items:
   * A User is in breach of applicable laws and regulations, these Terms and Conditions, or any Separate Terms and Conditions;
   * A User is a member of an anti-social group or a related party thereof;
-  * A User tarnishes LiveIn’s credibility by spreading false information, using fraudulent means or force, or other unlawful means;
-  * A User is subject to a petition for attachment, provisional attachment, or auction, ; procedures such as bankruptcy, civil rehabilitation, or similar procedures are commenced; or LiveIn otherwise reasonably determines that there is uncertainty with respect to User’s credibility;
-  * The relationship of trust with a User is lost or LiveIn otherwise reasonably determines that it would not be appropriate for LiveIn to provide the Services to User, due to reasons other than as set forth in items (1) to (4) above.
-3. In the case where LiveIn suffers loss/damages either directly or indirectly (including, without limitation, attorney fees) due to a User’s use of the Services (including, without limitation, cases where LiveIn receives a complaint from a third party due to such use), the User shall immediately compensate LiveIn for such loss/damage in accordance with LiveIn’s request.
+  * A User tarnishes LiveStatus’s credibility by spreading false information, using fraudulent means or force, or other unlawful means;
+  * A User is subject to a petition for attachment, provisional attachment, or auction, ; procedures such as bankruptcy, civil rehabilitation, or similar procedures are commenced; or LiveStatus otherwise reasonably determines that there is uncertainty with respect to User’s credibility;
+  * The relationship of trust with a User is lost or LiveStatus otherwise reasonably determines that it would not be appropriate for LiveStatus to provide the Services to User, due to reasons other than as set forth in items (1) to (4) above.
+3. In the case where LiveStatus suffers loss/damages either directly or indirectly (including, without limitation, attorney fees) due to a User’s use of the Services (including, without limitation, cases where LiveStatus receives a complaint from a third party due to such use), the User shall immediately compensate LiveStatus for such loss/damage in accordance with LiveStatus’s request.
 
 ## 16. Modifying the Services and Termination
 
 We’re relentlessly improving our Services and creating new ones all the time. That means we may add or remove features, products, or functionalities, and we may also suspend or stop the Services altogether. We may take any of these actions at any time for any reason, and when we do, we may not provide you with any notice beforehand.
 
-While we hope you remain a lifelong user, you can terminate these Terms at any time and for any reason by deleting your LiveIn account (or, in some cases, the account associated with the applicable part of the Services you are using).
+While we hope you remain a lifelong user, you can terminate these Terms at any time and for any reason by deleting your LiveStatus account (or, in some cases, the account associated with the applicable part of the Services you are using).
 
 We may terminate or temporarily suspend your access to the Services if you fail to comply with these Terms, any of our guidelines, or the law, for any reason outside of our control, or for any reason, and without advanced notice. That means that we may terminate these Terms, stop providing you with all or any part of the Services, or impose new or additional limits on your ability to use our Services. And while we’ll try to give you reasonable notice beforehand, we can’t guarantee that notice will be possible in all circumstances. For example, we may deactivate your account due to prolonged inactivity, and we may reclaim your username at any time for any reason.
 
-Regardless of who terminates these Terms, both you and LiveIn continue to be bound by these Terms.</p>
+Regardless of who terminates these Terms, both you and LiveStatus continue to be bound by these Terms.</p>
 
 ## 17. Indemnity
 
-You agree, to the extent permitted by law, to indemnify, defend, and hold harmless LiveIn, our affiliates, directors, officers, stockholders, employees, licensors, and agents from and against any and all complaints, charges, claims, damages, losses, costs, liabilities, and expenses (including attorneys’ fees) due to, arising out of, or relating in any way to: (a) your access to or use of the Services, or any products or services provided by a third party in connection with the Services, even if recommended, made available, or approved by LiveIn; (b) your content, including infringement claims related to your content; (c) your breach of these Terms or any applicable law or regulation; or (d) your negligence or willful misconduct.
+You agree, to the extent permitted by law, to indemnify, defend, and hold harmless LiveStatus, our affiliates, directors, officers, stockholders, employees, licensors, and agents from and against any and all complaints, charges, claims, damages, losses, costs, liabilities, and expenses (including attorneys’ fees) due to, arising out of, or relating in any way to: (a) your access to or use of the Services, or any products or services provided by a third party in connection with the Services, even if recommended, made available, or approved by LiveStatus; (b) your content, including infringement claims related to your content; (c) your breach of these Terms or any applicable law or regulation; or (d) your negligence or willful misconduct.
 
 ## 18. Disclaimers
 
@@ -173,23 +173,23 @@ THIS DOES NOT APPLY TO JURISDICTIONS THAT DO NOT ALLOW THE EXCLUSION OR LIMITATI
 
 ## 20. Arbitration, Class-Action Waiver, and Jury Waiver
 
-PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY PROVIDE THAT YOU AND LiveIn AGREE TO RESOLVE ALL DISPUTES BETWEEN US THROUGH BINDING INDIVIDUAL ARBITRATION.
+PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY PROVIDE THAT YOU AND LiveStatus AGREE TO RESOLVE ALL DISPUTES BETWEEN US THROUGH BINDING INDIVIDUAL ARBITRATION.
 
-For any dispute you have with LiveIn, you agree to first contact us and try to resolve the dispute with us informally. If LiveIn is not able to resolve the dispute informally, we each agree to resolve any claim, dispute, or controversy arising out of or in connection with or relating to these Terms through binding arbitration.
+For any dispute you have with LiveStatus, you agree to first contact us and try to resolve the dispute with us informally. If LiveStatus is not able to resolve the dispute informally, we each agree to resolve any claim, dispute, or controversy arising out of or in connection with or relating to these Terms through binding arbitration.
 
-Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. For instance, arbitration uses a neutral arbitrator instead of a judge or jury, involves more limited discovery, and is subject to very limited review by courts. Although the process is more informal, arbitrators can award the same damages and relief that a court can award. You agree that, by agreeing to these Terms of Service, the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and LiveIn are each waiving the right to a trial by jury or to participate in a class action. The arbitrator has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement. This arbitration provision shall survive termination of this Agreement and the termination of your LiveIn account.
+Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. For instance, arbitration uses a neutral arbitrator instead of a judge or jury, involves more limited discovery, and is subject to very limited review by courts. Although the process is more informal, arbitrators can award the same damages and relief that a court can award. You agree that, by agreeing to these Terms of Service, the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and LiveStatus are each waiving the right to a trial by jury or to participate in a class action. The arbitrator has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement. This arbitration provision shall survive termination of this Agreement and the termination of your LiveStatus account.
 
-1. Applicability of Arbitration Agreement. You and LiveIn agree that all claims and disputes (whether contract, tort, or otherwise), including all statutory claims and disputes, arising out of or relating to these Terms or the use of the Services that cannot be resolved in small claims court will be resolved by binding arbitration on an individual basis, except that you and LiveIn are not required to arbitrate any dispute in which either party seeks equitable relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. To be clear: the phrase “all claims and disputes” also includes claims and disputes that arose between us before the effective date of these Terms. In addition, all disputes concerning the arbitrability of a claim (including disputes about the scope, applicability, enforceability, revocability, or validity of the Arbitration Agreement) shall be decided by the arbitrator, except as expressly provided below.
+1. Applicability of Arbitration Agreement. You and LiveStatus agree that all claims and disputes (whether contract, tort, or otherwise), including all statutory claims and disputes, arising out of or relating to these Terms or the use of the Services that cannot be resolved in small claims court will be resolved by binding arbitration on an individual basis, except that you and LiveStatus are not required to arbitrate any dispute in which either party seeks equitable relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. To be clear: the phrase “all claims and disputes” also includes claims and disputes that arose between us before the effective date of these Terms. In addition, all disputes concerning the arbitrability of a claim (including disputes about the scope, applicability, enforceability, revocability, or validity of the Arbitration Agreement) shall be decided by the arbitrator, except as expressly provided below.
 2. Arbitration Rules. The Federal Arbitration Act, including its procedural provisions, governs the interpretation and enforcement of this dispute-resolution provision, and not state law. Arbitration will be conducted by ADR Services, Inc. (“ADR Services”) (https://www.adrservices.com/). If ADR Services is not available to arbitrate, the parties will select an alternative arbitral forum, and if they cannot agree, will ask the court to appoint an arbitrator pursuant to 9 U.S.C. § 5. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms. The arbitration will be conducted by a single neutral arbitrator. Any claims or disputes where the total amount sought is less than $10,000 USD may be resolved through binding non-appearance-based arbitration, at the option of the party seeking relief. For claims or disputes where the total amount sought is $10,000 USD or more, the right to a hearing will be determined by the arbitral forum’s rules. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
 3. Additional Rules for Non-appearance Arbitration. If non-appearance arbitration is elected, the arbitration will be conducted by telephone, online, written submissions, or any combination of the three; the specific manner will be chosen by the party initiating the arbitration. The arbitration will not involve any personal appearance by the parties or witnesses unless the parties mutually agree otherwise.
-4. Fees. ADR Services sets forth fees for its services, which are available at https://www.adrservices.com/rate-fee-schedule/. If LiveIn is the party initiating an arbitration against you, LiveIn will pay all costs associated with the arbitration, including the entire filing fee. If you are the party initiating an arbitration against LiveIn, you will be responsible for the first $100 toward the nonrefundable Initial Filing Fee, and LiveIn will pay the remainder of your Initial Filing fee and both parties’ Administrative Fee.
-5. Authority of the Arbitrator. The arbitrator will decide the jurisdiction of the arbitrator and the rights and liabilities, if any, of you and LiveIn. The dispute will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator will have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator will have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under law, the arbitral forum’s rules, and the Terms. The arbitrator will issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and LiveIn.
-6. Waiver of Jury Trial. YOU AND LiveIn WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO GO TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and LiveIn are instead electing to have claims and disputes resolved by arbitration. Arbitration procedures are typically more limited, more efficient, and less costly than rules applicable in court and are subject to very limited review by a court. In any litigation between you and LiveIn over whether to vacate or enforce an arbitration award, YOU AND LiveIn WAIVE ALL RIGHTS TO A JURY TRIAL, and elect instead to have the dispute be resolved by a judge.
+4. Fees. ADR Services sets forth fees for its services, which are available at https://www.adrservices.com/rate-fee-schedule/. If LiveStatus is the party initiating an arbitration against you, LiveStatus will pay all costs associated with the arbitration, including the entire filing fee. If you are the party initiating an arbitration against LiveStatus, you will be responsible for the first $100 toward the nonrefundable Initial Filing Fee, and LiveStatus will pay the remainder of your Initial Filing fee and both parties’ Administrative Fee.
+5. Authority of the Arbitrator. The arbitrator will decide the jurisdiction of the arbitrator and the rights and liabilities, if any, of you and LiveStatus. The dispute will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator will have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator will have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under law, the arbitral forum’s rules, and the Terms. The arbitrator will issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and LiveStatus.
+6. Waiver of Jury Trial. YOU AND LiveStatus WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO GO TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and LiveStatus are instead electing to have claims and disputes resolved by arbitration. Arbitration procedures are typically more limited, more efficient, and less costly than rules applicable in court and are subject to very limited review by a court. In any litigation between you and LiveStatus over whether to vacate or enforce an arbitration award, YOU AND LiveStatus WAIVE ALL RIGHTS TO A JURY TRIAL, and elect instead to have the dispute be resolved by a judge.
 7. Waiver of Class or Consolidated Actions. ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED OR LITIGATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS BASIS. CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR LITIGATED JOINTLY OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER. Notwithstanding any other provision of this Agreement, the Arbitration Agreement or ADR Services’ Rules, disputes regarding the interpretation, applicability, or enforceability of this waiver may be resolved only by a court and not by an arbitrator. If this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor we are entitled to arbitration; instead all claims and disputes will be resolved in a court as set forth in this section .
 8. Right to Waive. Any rights and limitations set forth in this Arbitration Agreement may be waived by the party against whom the claim is asserted. Such waiver will not waive or affect any other portion of this Arbitration Agreement.
-9. Opt-out. You may opt out of this Arbitration Agreement. If you do so, neither you nor LiveIn can force the other to arbitrate. To opt out, you must notify LiveIn in writing no later than 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your name and the phone number you used to set up your LiveIn account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. You must either email the opt-out notice to help <a href="mailto:service@livein.mobi">service@livein.mobi</a>
-10. Small Claims Court. Notwithstanding the foregoing, either you or LiveIn may bring an individual action in small claims court.
-11. Arbitration Agreement Survival. This Arbitration Agreement will survive the termination of your relationship with LiveIn.
+9. Opt-out. You may opt out of this Arbitration Agreement. If you do so, neither you nor LiveStatus can force the other to arbitrate. To opt out, you must notify LiveStatus in writing no later than 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your name and the phone number you used to set up your LiveStatus account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. You must either email the opt-out notice to help <a href="mailto:service@livein.mobi">service@livein.mobi</a>
+10. Small Claims Court. Notwithstanding the foregoing, either you or LiveStatus may bring an individual action in small claims court.
+11. Arbitration Agreement Survival. This Arbitration Agreement will survive the termination of your relationship with LiveStatus.
 
 If you are a user in the EU, EEA, or UK, this section does not apply to you.
 
@@ -205,19 +205,19 @@ If any provision of these Terms is found unenforceable, then that provision will
 
 ## 23. Final Terms
 
-These Terms, including the additional terms referenced in Section 5 and the Community Guidelines, make up the entire agreement between you and LiveIn, and supersede any prior agreements. These Terms do not create or confer any third-party beneficiary rights. If we do not enforce a provision in these Terms, it will not be considered a waiver. We reserve the right to transfer our rights under these Terms and provide the Services using another entity, provided that entity upholds these Terms. You may not transfer any of your rights or obligations under these Terms without our consent. We reserve all rights not expressly granted to you.
+These Terms, including the additional terms referenced in Section 5 and the Community Guidelines, make up the entire agreement between you and LiveStatus, and supersede any prior agreements. These Terms do not create or confer any third-party beneficiary rights. If we do not enforce a provision in these Terms, it will not be considered a waiver. We reserve the right to transfer our rights under these Terms and provide the Services using another entity, provided that entity upholds these Terms. You may not transfer any of your rights or obligations under these Terms without our consent. We reserve all rights not expressly granted to you.
 
-<h2 id='community_guidelines'>LiveIn Community Guidelines</h2>
+<h2 id='community_guidelines'>LiveStatus Community Guidelines</h2>
 
-LiveIn developed these Community Guidelines to let our users know what we do and do not allow on LiveIn. These guidelines represent our acceptable use policy, so if you encounter content that is not appropriate according to the guidelines, please report it us at: <a href="mailto:service@livein.mobi">service@livein.mobi</a>.
+LiveStatus developed these Community Guidelines to let our users know what we do and do not allow on LiveStatus. These guidelines represent our acceptable use policy, so if you encounter content that is not appropriate according to the guidelines, please report it us at: <a href="mailto:service@livein.mobi">service@livein.mobi</a>.
 
 ## Content safety
 
-LiveIn is not a place for explicit, harmful, hateful, or violent content. LiveIn may remove, limit, or block such content and the accounts that post or transmit content based on how much harm it poses.
+LiveStatus is not a place for explicit, harmful, hateful, or violent content. LiveStatus may remove, limit, or block such content and the accounts that post or transmit content based on how much harm it poses.
 
 ## Adult content
 
-LiveIn is not a place for pornography. We limit the distribution of or remove mature and explicit content, including: vivid sexual descriptions, graphic depictions of sexual activity, and images of nudity where the poses, camera angles, or props suggest pornographic intent.
+LiveStatus is not a place for pornography. We limit the distribution of or remove mature and explicit content, including: vivid sexual descriptions, graphic depictions of sexual activity, and images of nudity where the poses, camera angles, or props suggest pornographic intent.
 
 We report all instances of child sexual exploitation to authorities. It is not acceptable or legal to post, save, or send nude or sexually explicit content involving anyone under the age of 18 – even of yourself. It is not acceptable or legal to ask a minor to send sexually explicit conduct.
 
@@ -225,7 +225,7 @@ We do our best to differentiate between pornography and other mature content. Fo
 
 ## Exploitation
 
-LiveIn is not a place for exploitation of people. We will remove or limit the distribution of content and accounts involved in practices that risk harm to people, including sexual, physical, or financial exploitation. That includes:
+LiveStatus is not a place for exploitation of people. We will remove or limit the distribution of content and accounts involved in practices that risk harm to people, including sexual, physical, or financial exploitation. That includes:
 
 * Sexualization or sexual exploitation of minors, like grooming, sexual remarks or inappropriate imagery. If we find it, we’ll report it to relevant authorities.
 * Non-consensual images, meaning images of a private or sexual nature obtained or published without consent. This includes revenge porn and up-skirt images.
@@ -234,15 +234,15 @@ LiveIn is not a place for exploitation of people. We will remove or limit the di
 
 ## Harassment and criticism
 
-LiveIn is not a place to insult, hurt or antagonize individuals or groups of people. LiveIn prohibits bullying and harassment. If a user blocks you, you may not contact them from your account or another account.
+LiveStatus is not a place to insult, hurt or antagonize individuals or groups of people. LiveStatus prohibits bullying and harassment. If a user blocks you, you may not contact them from your account or another account.
 
 If someone is depicted in your pictures or videos and asks you to remove it, please remove the content.
 
-LiveIn prohibits sharing another person’s private information, pictures, or videos without their knowledge or consent.
+LiveStatus prohibits sharing another person’s private information, pictures, or videos without their knowledge or consent.
 
 ## Graphic Violence and Threats
 
-LiveIn is not a place for graphic violence or threatening language. We limit the distribution of or remove such content, including:
+LiveStatus is not a place for graphic violence or threatening language. We limit the distribution of or remove such content, including:
 
 * Content that shows the use of violence including harm to self, harm to others, and harm to animals
 * Disturbing scenes from before or after violent events
@@ -251,7 +251,7 @@ LiveIn is not a place for graphic violence or threatening language. We limit the
 
 ## Violent actors
 
-LiveIn is not a place for violent content. We limit the distribution of or remove content and accounts that encourage, praise, or promote aid to dangerous actors or groups and their activities. This includes:
+LiveStatus is not a place for violent content. We limit the distribution of or remove content and accounts that encourage, praise, or promote aid to dangerous actors or groups and their activities. This includes:
 
 * Extremists
 * Terrorist organizations
@@ -261,7 +261,7 @@ We work with industry, government and security experts to help us identify these
 
 ## Harmful or Deceptive Products &amp; Practices
 
-LiveIn is not a place for practices and products that may be illegal, harmful, or deceptive. We limit the distribution of or remove such content and accounts, including, but not limited to content that:
+LiveStatus is not a place for practices and products that may be illegal, harmful, or deceptive. We limit the distribution of or remove such content and accounts, including, but not limited to content that:
 
 * Promotes criminal activity
 * Facilitates or participates in cybercrime
@@ -275,9 +275,9 @@ We don’t allow accounts that impersonate or misrepresent their affiliation wit
 
 ## Intellectual property and other rights
 
-To respect the rights of people on and off LiveIn, please:
+To respect the rights of people on and off LiveStatus, please:
 
 * Do not infringe anyone's intellectual property, privacy or other rights.
 * Do not post any content that violates laws or regulations.
 
-If you violate these Community Guidelines, LiveIn may remove the content, terminate, or limit your account and/or notify law enforcement, If your account is terminated, you are not allowed to use LiveIn.
+If you violate these Community Guidelines, LiveStatus may remove the content, terminate, or limit your account and/or notify law enforcement, If your account is terminated, you are not allowed to use LiveStatus.
