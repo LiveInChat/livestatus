@@ -131,7 +131,7 @@ You have the right to request us to:
 
 If you are a minor and have registered for an LiveStatus account, you have the right to request that we remove any content or information, so that it is not visible to the public.
 
-If you no longer wish to receive marketing communications from LiveStatus, or if you wish to make any of the above requests, please contact us at:<a href="mailto:service@livein.mobi">service@livein.mobi</a>.
+If you no longer wish to receive marketing communications from LiveStatus, or if you wish to make any of the above requests, please contact us at:<a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a>.
 
 You have choice and access rights through the following tools:
 
@@ -172,7 +172,7 @@ LiveStatus reserves the right to modify our Privacy Policy at any time at its so
 
 <h2 id="12">12.HOW TO CONTACT US</h2>
 
-Should you have any questions or concerns about this Privacy Policy, please email: <a href="mailto:service@livein.mobi">service@livein.mobi</a> and include the phone number you used to register your account.
+Should you have any questions or concerns about this Privacy Policy, please email: <a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a> and include the phone number you used to register your account.
 
 <h2>Region Specific Privacy Laws</h2>
 
@@ -189,11 +189,11 @@ If you make a request to opt-out of sale, and then you subsequently clear cookie
 
 You can also request us to delete your personal information; however, please be aware that we may need to retain some of your information in order to maintain our records, comply with our legal obligations, resolve disputes, or enforce our agreements. It may not always be possible to completely remove or delete all of your information from our databases without some residual data remaining because of backups and other reasons.
 
-To submit your CCPA request, please contact us at: <a href="mailto:service@livein.mobi">service@livein.mobi</a>.
+To submit your CCPA request, please contact us at: <a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a>.
 
-If you are a California resident and would like to designate an authorized agent to submit certain requests on your behalf, please send an email to the following email address: <a href="mailto:service@livein.mobi">service@livein.mobi</a> . In order for an authorized agent to be verified, you must provide the authorized agent with signed, written permission to make such requests or a power of attorney. We may also follow up with you to verify your identity before processing the authorized agent’s request.
+If you are a California resident and would like to designate an authorized agent to submit certain requests on your behalf, please send an email to the following email address: <a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a> . In order for an authorized agent to be verified, you must provide the authorized agent with signed, written permission to make such requests or a power of attorney. We may also follow up with you to verify your identity before processing the authorized agent’s request.
 
-If you are an agent of a California resident and would like to submit a request on behalf of a California resident, please submit the request to the following email address: <a href="mailto:service@livein.mobi">service@livein.mobi</a>. After you submit the request, we will require additional information to verify the identity of the California resident, as well as your authority to act on behalf of the California resident.
+If you are an agent of a California resident and would like to submit a request on behalf of a California resident, please submit the request to the following email address: <a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a>. After you submit the request, we will require additional information to verify the identity of the California resident, as well as your authority to act on behalf of the California resident.
 
 Additionally, California Civil Code Section 1798.83 gives California residents the right to request, from a business with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party, and the identities of the third parties with whom the business has shared such information during the immediately preceding year. To request a copy of the information disclosure provided by LiveStatus pursuant to California Civil Code Section 1798.83, please contact us at the address listed below.
 
@@ -203,7 +203,7 @@ Nevada residents have certain privacy rights as specified under Nevada law. Our 
 
 Do Not Sell Notice
 
-We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Policy, please contact us at: <a href="mailto:service@livein.mobi">service@livein.mobi</a>.
+We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Policy, please contact us at: <a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a>.
 
 <h3 id="Europe">Europe</h3>
 
@@ -223,7 +223,7 @@ If you live in the EU, EEA or UK, you have the right under GDPR to:
 
 Note that these rights may be limited in some circumstances under applicable law. When you make a request to exercise your rights under GDPR, we may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
 
-To submit your GDPR request and exercise any of your rights under GDPR, please contact our support team at: <a href="mailto:service@livein.mobi">service@livein.mobi</a>.
+To submit your GDPR request and exercise any of your rights under GDPR, please contact our support team at: <a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a>.
 
 In addition, if you are in the EEA and you have any complaints about how we use your personal data, you have the right to lodge a complaint with the data protection authority in your country. A list of data protection authorities can be found <a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080" rel="nofollow">here</a>.
 
@@ -241,4 +241,4 @@ Your country only allows us to use your personal information when certain condit
 
 <h2>Complaints or Questions</h2>
 
-If you have any questions or concerns about the Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact our support team at: <a href="mailto:service@livein.mobi">service@livein.mobi</a>.
+If you have any questions or concerns about the Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact our support team at: <a href="mailto:livestatus.widget@gmail.com">livestatus.widget@gmail.com</a>.
