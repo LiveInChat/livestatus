@@ -1,6 +1,6 @@
 # LiveStatus Privacy Policy
 
-## Effective: July 1, 2022
+## Effective: October 5, 2022
 
 LiveStatus is an iOS &amp; Android widget app that lets you share photos with your friends right on their home screen. When you send a picture using LiveStatus, it will magically appear on your friends' home screen, without them having to open the app. Since LiveStatus is designed to be used with your closest friends, we care deeply about protecting your privacy and keeping your data secure.
 

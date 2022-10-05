@@ -1,6 +1,6 @@
 # Terms of Service
 
-## Effective date: July 20, 2022
+## Effective date: October 5, 2022
 
 These Terms of Service (referred to as the "Terms") govern your access to and use of our Services. These Terms form a legally binding contract between you and Livehouse Ltd. ("LiveStatus"). So please read them carefully!
 
