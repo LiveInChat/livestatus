@@ -34,6 +34,7 @@ The User shall have the option to subscribe for 1 month, 3 months or 1 year.
 (5)LiveStatus hereby reminds you that the amount of the Pro service fee you paid for this billing cycle is based on the automatic renewal rate agreed upon with LiveStatus when you signed up for Pro services: however, in cases where LiveStatus is on a campaign or has otherwise agreed with you, your relevant agreement with LiveStatus shall apply. At the same time, if you unsubscribed and signed up for Pro services again, the amount of the Pro service fee that you pay for this billing cycle shall be based on the automatic renewal rate agreed withLiveStatus at your re-signup.
 6. Method for deactivation of automatic renewal:
 (1) iOS users: Please open Settings on your phone and tap your profile photo to see your Apple ID settings. Tap Subscriptions and choose to cancel your LiveStatus subscription. Please note that the cancellation should be done at least 24 hours prior to the auto-renewal deduction, or the subscription may remain valid and you may be charged.
+5. **For iOS user, we are using the [standard Apple Terms of Use (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).**
 
 ### IV. Intellectual property statement:
 
